@@ -1,0 +1,22 @@
+.main{
+    padding-top: 50px;
+    align-items: center;
+}
+.main img{
+    width: 300px;
+    height: 300px;
+    border-radius: 4px;
+}
+.border{
+    width: 60px;
+    height: 3px;
+    background-color: #ccc;
+    margin: 20px auto;
+}
+
+
+.main p{
+    color: #888;
+    padding: 0px 30px;
+    font-size: 18px;
+}
