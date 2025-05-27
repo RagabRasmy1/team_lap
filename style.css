@@ -20,3 +20,39 @@
     padding: 0px 30px;
     font-size: 18px;
 }
+
+.main p{
+    color: #888;
+    padding: 0px 30px;
+    font-size: 18px;
+}
+.page-link:hover {
+    color: #eceaea !important;
+    background-color: #000000 !important;
+}
+.page-item:hover{
+    background-color: #000000 !important;
+}
+
+.border1{
+    width: 90%;
+}
+.about{
+    color: #888;
+}
+.content{
+    text-align: center;
+}
+.bg{
+    width: 1000px;
+    padding: 10px 0;
+}
+
+.sm{
+    width: 50px;
+    height: 50px;
+    padding: 5px;
+}
+.car{
+    display: flex;
+}
